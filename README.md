@@ -1,4 +1,5 @@
 # 💫 About Me:
+SOFTWARE ENGINEERING | WEB DEVELPOER | IT 
 Motivated IT student at Borg El Arab <br>Technological University, specializing in <br>Software Engineering. Interested in web <br>development, programming, and AI, with a <br>strong passion for building practical tech <br>solutions and continuously improving <br>technical skills
 
 
